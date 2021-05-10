@@ -13,6 +13,14 @@ And then, one day, I got in."
 - ...though currently I feel like Zoolander and Hansel (so hot right now) trying to get files out of a computer
 - 🌱 I’m currently learning computer science, Python, R, and GIS
 
+PS This is my greatest code so far:
+
+```python
+if bool('shit'):
+    print("Is it really B.S.?")
+    #Deep...
+```    
+    
 <!---
 Attius06/Attius06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
