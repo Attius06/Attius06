@@ -11,7 +11,7 @@ And then, one day, I got in."
 \- Jeff Bridges
 
 - ...though currently I feel like Zoolander and Hansel (so hot right now) trying to get files out of a computer
-- 🌱 I’m currently learning computer science, Markdown, python, and GIS
+- 🌱 I’m currently learning computer science, Python, R, and GIS
 
 <!---
 Attius06/Attius06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
