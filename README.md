@@ -13,7 +13,7 @@ And then, one day, I got in."
 - ...though currently I feel like Zoolander and Hansel (so hot right now) trying to get files out of a computer
 - 🌱 I’m currently learning computer science, Python, R, and GIS
 
-PS This is my greatest code so far:
+P.S. Here is my favorite Python code I've written so far:
 
 ```python
 if bool('shit'):
@@ -22,6 +22,6 @@ if bool('shit'):
 ```    
     
 <!---
-Attius06/Attius06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chrisattias/chrisattias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
